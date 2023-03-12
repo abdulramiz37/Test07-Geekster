@@ -1,11 +1,16 @@
-# Chat API Project
-* Swagger
-- http://100.25.205.22:8080/swagger-ui.html#/
-## Frameworks and language used:
+## Project Summary
+
+
+we can add post.
+we can fetch all posts.
+We can visualize data on SQL workbench, swagger.
+
+
+ language used:
 -  Java
 -  Spring Boot
 -  SQL database
-## Data Flow
+Data Flow
 
 
 * **Model** :
@@ -40,12 +45,7 @@
 
     * I have used SQL Database to store the data.
 
-## Project Summary
 
-In this application by using various RestApi we can create Post.
-we can add post.
-we can fetch all posts.
-We can visualize data on SQL workbench, swagger.
 
 
 
